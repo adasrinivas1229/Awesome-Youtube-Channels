@@ -440,6 +440,10 @@ A pretty Awesome list of technical Youtube Channels that one must follow. This l
 > If you don't know this platform , you should! ASAP!
 > https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw
 
+**What's AI**
+> "I Vulgarize Artificial Intelligence terms and news for non-experts. My goal is to demystify the AI “Black box” for everyone and sensitize people about the risks."
+> https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg
+
 **YaleCourses**
 > Yale's philosophy of teaching and learning begins with the aim of training a broadly based, highly disciplined intellect without specifying in advance how that intellect will be used. The Yale Courses channel provides entry into the core of the University--its classrooms and academic programs--including complete sets of lectures from the Open Yale Courses initiative. Complementary syllabi, transcripts, and other resources may also be accessed from the Open Yale Courses website listed below.
 online.yale.edu 
